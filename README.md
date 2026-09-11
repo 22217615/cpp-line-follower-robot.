@@ -5,6 +5,12 @@
 ![Domain](https://img.shields.io/badge/Field-Computer%20Engineering-green?style=for-the-badge)
 
 An autonomous, high-speed line follower robot developed from scratch in **C++ / Arduino** as part of my Computer Engineering coursework. This project won **1st Place / Course Winner** in the university robotics competition.
+<img width="1200" height="1600" alt="WhatsApp Image at 7 04 55 PM" src="https://github.com/user-attachments/assets/8b340779-dfad-4e9e-91a0-c82672f1f1a2" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-11 at 7 04 55 PM" src="https://github.com/user-attachments/assets/0389437b-8b4a-4213-b5b8-7e751ae5ed60" />
+
+
+https://github.com/user-attachments/assets/adeb1c74-039f-4724-b38c-0b19419f4ed8
+
 
 ---
 
